@@ -1,0 +1,152 @@
+[
+  {
+    "sku": "EL-003",
+    "name": "เมาส์ไร้สาย Silent Click",
+    "description": "เมาส์ไร้สายคลิกเงียบ เชื่อมต่อผ่านตัวรับ USB ขนาดกะทัดรัด เหมาะสำหรับทำงานและเรียนออนไลน์",
+    "category": "อิเล็กทรอนิกส์",
+    "price": 390,
+    "stockQuantity": 25,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "EL-004",
+    "name": "คีย์บอร์ดไร้สาย Compact Keys",
+    "description": "คีย์บอร์ดไร้สายขนาดกะทัดรัด มีตัวอักษรไทยและอังกฤษ ปุ่มกดนุ่ม ใช้กับคอมพิวเตอร์ผ่านตัวรับ USB",
+    "category": "อิเล็กทรอนิกส์",
+    "price": 990,
+    "stockQuantity": 12,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "EL-005",
+    "name": "พาวเวอร์แบงก์ Go Charge 10000 mAh",
+    "description": "แบตเตอรี่สำรองความจุ 10000 mAh มีช่องชาร์จ USB-A และ USB-C พร้อมไฟแสดงระดับแบตเตอรี่",
+    "category": "อิเล็กทรอนิกส์",
+    "price": 690,
+    "stockQuantity": 18,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "EL-006",
+    "name": "สายชาร์จ USB-C Flex Cable",
+    "description": "สายชาร์จ USB-A เป็น USB-C ความยาว 1 เมตร สายถักยืดหยุ่นสำหรับอุปกรณ์ที่รองรับ",
+    "category": "อิเล็กทรอนิกส์",
+    "price": 149,
+    "stockQuantity": 40,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "EL-007",
+    "name": "แท่นวางโทรศัพท์ Easy Stand",
+    "description": "แท่นวางโทรศัพท์สำหรับโต๊ะทำงาน ปรับมุมได้ พับเก็บสะดวก รองรับการวางแนวตั้งและแนวนอน",
+    "category": "อิเล็กทรอนิกส์",
+    "price": 199,
+    "stockQuantity": 30,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "FA-003",
+    "name": "กระเป๋าผ้า Everyday Canvas",
+    "description": "กระเป๋าผ้าแคนวาสสีเขียว มีช่องด้านใน น้ำหนักเบา ใช้ใส่ของจำเป็นสำหรับวันทำงานหรือวันหยุด",
+    "category": "แฟชั่น",
+    "price": 350,
+    "stockQuantity": 20,
+    "imageUrl": "/products/tote.svg",
+    "isActive": true
+  },
+  {
+    "sku": "FA-004",
+    "name": "หมวกแก๊ป Classic Cap",
+    "description": "หมวกแก๊ปผ้าคอตตอนสีครีม ปรับขนาดด้านหลังได้ เหมาะกับการแต่งตัวสบาย ๆ ในทุกวัน",
+    "category": "แฟชั่น",
+    "price": 250,
+    "stockQuantity": 16,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "FA-005",
+    "name": "ถุงเท้าคอตตอน Everyday Socks แพ็ก 3 คู่",
+    "description": "ถุงเท้าคอตตอนขนาดฟรีไซซ์ สีพื้น 3 คู่ เนื้อนุ่ม ระบายอากาศ เหมาะสำหรับสวมใส่ประจำวัน",
+    "category": "แฟชั่น",
+    "price": 129,
+    "stockQuantity": 35,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "FA-006",
+    "name": "รองเท้าผ้าใบ Weekend Sneaker",
+    "description": "รองเท้าผ้าใบโทนครีมสำหรับวันสบาย ๆ พื้นนุ่ม น้ำหนักเบา รุ่นตัวอย่างไซซ์ 40",
+    "category": "แฟชั่น",
+    "price": 790,
+    "stockQuantity": 10,
+    "imageUrl": "/products/sneakers.svg",
+    "isActive": true
+  },
+  {
+    "sku": "HO-004",
+    "name": "ขวดน้ำสแตนเลส Fresh Day 750 มล.",
+    "description": "ขวดน้ำสแตนเลสขนาด 750 มล. พร้อมฝาปิดและหูหิ้ว ใช้ใส่เครื่องดื่มสำหรับพกไปทำงานหรือออกกำลังกาย",
+    "category": "บ้านและไลฟ์สไตล์",
+    "price": 450,
+    "stockQuantity": 22,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "HO-005",
+    "name": "กล่องจัดระเบียบโต๊ะ Desk Organizer",
+    "description": "กล่องจัดระเบียบบนโต๊ะ แบ่งช่องสำหรับปากกา สมุดโน้ต และอุปกรณ์ชิ้นเล็ก ช่วยให้หยิบใช้งานสะดวก",
+    "category": "บ้านและไลฟ์สไตล์",
+    "price": 180,
+    "stockQuantity": 24,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "HO-006",
+    "name": "หมอนอิง Soft Home",
+    "description": "หมอนอิงขนาด 45 × 45 ซม. พร้อมปลอกถอดซักได้ เหมาะสำหรับวางบนโซฟาหรือมุมพักผ่อน",
+    "category": "บ้านและไลฟ์สไตล์",
+    "price": 299,
+    "stockQuantity": 15,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "HO-007",
+    "name": "แก้วเซรามิก Cozy Cup",
+    "description": "แก้วเซรามิกสีครีมขนาด 300 มล. มีหูจับ ใช้สำหรับกาแฟ ชา หรือเครื่องดื่มแก้วโปรด",
+    "category": "บ้านและไลฟ์สไตล์",
+    "price": 220,
+    "stockQuantity": 28,
+    "imageUrl": "/products/mug.svg",
+    "isActive": true
+  },
+  {
+    "sku": "BE-002",
+    "name": "ลิปบาล์ม Citrus Care",
+    "description": "ลิปบาล์มกลิ่นซิตรัสอ่อน ๆ ขนาด 4 กรัม สำหรับดูแลริมฝีปาก พกพาสะดวกในกระเป๋าใบเล็ก",
+    "category": "ความงาม",
+    "price": 99,
+    "stockQuantity": 32,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  },
+  {
+    "sku": "BE-003",
+    "name": "โลชั่นทาผิว Daily Moisture",
+    "description": "โลชั่นบำรุงผิวกายขนาด 200 มล. เนื้อบางเบา กลิ่นสะอาด เหมาะสำหรับใช้ดูแลผิวเป็นประจำ",
+    "category": "ความงาม",
+    "price": 249,
+    "stockQuantity": 20,
+    "imageUrl": "/products/placeholder.svg",
+    "isActive": true
+  }
+]
